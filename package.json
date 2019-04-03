@@ -1,0 +1,15 @@
+{
+  "name": "modio-js",
+  "version": "1.0.0",
+  "description": "A JavaScript wrapper of the Mod.io API. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node modio.js"
+  },
+  "author": "Daniel Nesov",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
