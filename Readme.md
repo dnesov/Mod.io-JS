@@ -10,7 +10,7 @@ mod.io is a cross-platform, lightweight & customizable modding solution that wor
 I recommend to check it out!
 
 ## Getting started
-Download the script from the [Release](https://www.google.com) tab and require it.
+Download the script from the [Release](https://github.com/dnesov/Mod.io-JS/releases) tab and require it.
 
 run "npm i --save request"
 
