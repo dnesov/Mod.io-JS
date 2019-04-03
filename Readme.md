@@ -24,7 +24,7 @@ modio.fetchGames({name: "Spoxel"}, function (result) {
   console.log(result);
 });
 ```
-This will display the information of the game "Spoxel".
+This will return the information of the game "Spoxel".
 
 ## Contributors
 [@Daniel Nesov](https://github.com/dnesov)
