@@ -24,7 +24,7 @@ modio.fetchGames({name: "Spoxel"}, function (result) {
   console.log(result);
 });
 ```
-This will display the list of all games.
+This will display the information of the game "Spoxel".
 
 ## Contributors
 [@Daniel Nesov](https://github.com/dnesov)
