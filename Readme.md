@@ -18,7 +18,7 @@ run "npm i --save request"
 ```js
 var ModIO = require("./modio.js");
 
-const modio = new ModIO("164b63fbc8937875968618f70ff34660");
+const modio = new ModIO("api_key_here");
 
 modio.fetchGames({name: "Spoxel"}, function (result) {
   console.log(result);
