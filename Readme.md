@@ -20,8 +20,8 @@ var ModIO = require("./modio.js");
 
 const modio = new ModIO("164b63fbc8937875968618f70ff34660");
 
-modio.fetchGames(function (data) {
-  console.log(data);
+modio.fetchGames({name: "Spoxel"}, function (result) {
+  console.log(result);
 });
 ```
 This will display the list of all games.
