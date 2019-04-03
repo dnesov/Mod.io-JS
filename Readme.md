@@ -1,6 +1,7 @@
 ![mod.io](https://camo.githubusercontent.com/f66236072c6723d59617f821e9ec200e94696989/68747470733a2f2f7374617469632e6d6f642e696f2f76312f696d616765732f6272616e64696e672f6d6f64696f2d636f6c6f722d6461726b2e737667)
 # Mod.io JavaScript Wrapper
 ![license](https://img.shields.io/badge/License-MIT-green.svg) ![state](https://img.shields.io/badge/State-WIP-red.svg)
+
 A JavaScript wrapper of the Mod.io's API. 
 
 ## What is Mod.io?
